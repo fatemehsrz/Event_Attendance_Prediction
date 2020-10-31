@@ -29,7 +29,7 @@ if __name__ == '__main__':
 
 	#output model
 	saved_path1 = "doc2vecModel.bin"
-	saved_path2 = "ego_local256.emb"
+	saved_path2 = "ego_local128.emb"
 
 	#train doc2vec 
 	print('giving label to egos ...')
